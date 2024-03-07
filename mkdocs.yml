@@ -1,0 +1,217 @@
+
+# mkdocs.yml
+site_name: Saplings STEM
+
+
+
+theme:
+  name: "material"
+
+
+
+nav:
+  #
+  # Front matter
+  #
+  - 'Home':
+    - 'Think Like an Engineer': 'index.md'
+    - 'Confidentiality Notice': 'confidentiality.md'
+    - 'References' : 'references.md'
+    
+
+  #
+  # ENG 1: Design Build
+  #
+  - 'ENG 1 Manual':
+
+    - 'Introduction':
+      - ' Welcome ': 'eng_1_manual/index.md' 
+
+      - 'Mechanical Tools':
+        - 'Introduction' : 'eng_1_manual/mechanical-tools/index.md'
+        - 'Units of measure': 'eng_1_manual/mechanical-tools/units-of-measure/index.md'
+        - 'Choosing the right tool': 'eng_1_manual/mechanical-tools/choosing-the-right-tool/index.md'
+        - 'Using the tools': 'eng_1_manual/mechanical-tools/using-the-tools/index.md'
+
+      - 'Software': 
+        - 'Introduction' : 'eng_1_manual/software/index.md'
+        - 'Onshape CAD': 'eng_1_manual/software/onshape/index.md'
+        - 'Cura Slicer': 
+          - 'Home Installation': 'eng_1_manual/software/slicer/home-installation/index.md'
+          - 'Saplings LAB': 'eng_1_manual/software/slicer/saplings-lab/index.md'
+        - 'Design Guidelines': 'eng_1_manual/software/design-guidelines/design-guidelines.md'
+     
+      - 'Fabrication' :
+        - 'Introduction' : 'eng_1_manual/fabrication/index.md'
+        - 'Creality Ender-3 Pro 3D Printer' : 'eng_1_manual/fabrication/ender-pro/index.md'
+        - 'ANYCUBIC Photon Mono 2' : 'eng_1_manual/fabrication/anycubic/index.md'
+        - 'Creality Falcon-2 40 W' : 'eng_1_manual/fabrication/falcon-2/index.md'
+        - 'Fabrication Guidelines': 'eng_1_manual/fabrication/fabrication-guidelines/fabrication-guidelines.md'
+
+      - 'Self Assessments':
+        - 'Introduction' : 'eng_1_manual/self-assessment/index.md'
+        - 'Tools Quizz:' : 'eng_1_manual/self-assessment/tool-quizz/tool-quizz-1.md'
+        - 'Software Quizz:' : 'eng_1_manual/self-assessment/software-quizz/software-quizz-1.md'
+        - 'Fabrication Quizz:' : 'eng_1_manual/self-assessment/fabrication-quizz/fabrication-quizz-1.md'
+
+  #
+  # ENG 2: Mechanical Systems
+  #
+  - 'ENG 2 Manual':
+
+    - 'Introduction':
+      - ' Welcome ': 'eng_2_manual/index.md' 
+
+      - 'Mechanical Tools':
+        - 'Introduction' : 'eng_2_manual/mechanical-tools/index.md'
+        - 'Units of measure': 'eng_2_manual/mechanical-tools/units-of-measure/index.md'
+        - 'Choosing the right tool': 'eng_2_manual/mechanical-tools/choosing-the-right-tool/index.md'
+        - 'Using the tools': 'eng_2_manual/mechanical-tools/using-the-tools/index.md'
+
+      - 'Software': 
+        - 'Introduction' : 'eng_2_manual/software/index.md'
+        - 'Onshape CAD': 'eng_2_manual/software/onshape/index.md'
+        - 'Cura Slicer': 
+          - 'Home Installation': 'eng_2_manual/software/slicer/home-installation/index.md'
+          - 'Saplings LAB': 'eng_2_manual/software/slicer/saplings-lab/index.md'
+        - 'Design Guidelines': 'eng_2_manual/software/design-guidelines/design-guidelines.md'
+     
+      - 'Fabrication' :
+        - 'Introduction' : 'eng_2_manual/fabrication/index.md'
+        - 'Creality Ender-3 Pro 3D Printer' : 'eng_2_manual/fabrication/ender-pro/index.md'
+        - 'ANYCUBIC Photon Mono 2' : 'eng_2_manual/fabrication/anycubic/index.md'
+        - 'Creality Falcon-2 40 W' : 'eng_2_manual/fabrication/falcon-2/index.md'
+        - 'Fabrication Guidelines': 'eng_2_manual/fabrication/fabrication-guidelines/fabrication-guidelines.md'
+
+      - 'Self Assessments':
+        - 'Introduction' : 'eng_2_manual/self-assessment/index.md'
+        - 'Tools Quizz:' : 'eng_2_manual/self-assessment/tool-quizz/tool-quizz-1.md'
+        - 'Software Quizz:' : 'eng_2_manual/self-assessment/software-quizz/software-quizz-1.md'
+        - 'Fabrication Quizz:' : 'eng_2_manual/self-assessment/fabrication-quizz/fabrication-quizz-1.md'
+
+
+# ENG 3: Introduction to Electronics
+  #
+  - 'ENG 3 Manual':
+
+    - 'Introduction':
+      - ' Welcome ': 'eng_3_manual/index.md' 
+
+      - 'Electronic Equipment':
+        - 'Introduction' : 'eng_3_manual/electronic-equipment/index.md'
+        - 'Units of measure': 'eng_3_manual/electronic-equipment/units-of-measure/index.md'
+        - 'Choosing the right equipment': 'eng_3_manual/electronic-equipment/choosing-the-right-equipment/index.md'
+        - 'Using electronic equipment': 'eng_3_manual/electronic-equipment/using-electronic-equipment/index.md'
+
+      - 'Software': 
+        - 'Introduction' : 'eng_3_manual/software/index.md'
+        - 'Arduino IDE': 'eng_3_manual/software/arduino/index.md'
+        - 'Python Environment': 'eng_3_manual/software/python/index.md'
+        - 'Coding Best Practices': 'eng_3_manual/software/coding-best-practices/index.md'
+     
+      - 'Projects' :
+        - 'Introduction' : 'eng_3_manual/projects/index.md'
+        - 'Guided Project: Servo Motors ': 'eng_3_manual/projects/guided-project/index.md'
+        - 'Partnered Project' : 'eng_3_manual/projects/partnered-project/index.md'
+        
+       
+       
+
+      - 'Self Assessments':
+        - 'Introduction' : 'eng_3_manual/self-assessment/index.md'
+        - 'Tools Quizz:' : 'eng_3_manual/self-assessment/tool-quizz/tool-quizz-1.md'
+        - 'Software Quizz:' : 'eng_3_manual/self-assessment/software-quizz/software-quizz-1.md'
+      
+
+
+
+######################################
+# MkDocs Configuration: Do Not Edit! #
+######################################
+site_name: !ENV [SITE_NAME, 'Saplings STEM']
+site_url: !ENV [SITE_URL, '']
+copyright: Copyright &copy; 2024 Saplings.
+
+theme:
+  name: material
+  logo: assets/logo_standalone_flat.png
+  favicon: !ENV [ICON, 'assets/icon.svg']
+  custom_dir: docs/assets/template_overrides
+  font:
+    #text: Nunito
+    text: Montserrat
+    # text: Libre Baskerville
+    code: Roboto Mono
+
+  features:
+    - navigation.instant
+    - navigation.tracking
+    - navigation.sections
+    - navigation.instant
+    - search.highlight
+
+  palette: 
+    # Palette toggle for light mode
+    - scheme: default
+      # primary: light blue
+      toggle:
+        icon: material/brightness-7 
+        name: Switch to dark mode
+
+    # Palette toggle for dark mode
+    - scheme: slate
+      toggle:
+        icon: material/brightness-4
+        name: Switch to light mode
+
+markdown_extensions:
+  - pymdownx.arithmatex:
+      generic: true
+      block_tag: 'pre'
+
+  - admonition
+  - pymdownx.details
+  - pymdownx.superfences
+  - footnotes
+  - def_list
+
+  # Emoji Extension
+  - attr_list
+  - pymdownx.emoji:
+      emoji_index: !!python/name:materialx.emoji.twemoji
+      emoji_generator: !!python/name:materialx.emoji.to_svg
+
+  # Tables extension
+  - tables
+
+  
+
+  
+plugins:
+  - glightbox
+  - search
+  - git-revision-date-localized:
+      enabled: !ENV [ENABLED_GIT_REVISION_DATE, true]
+      enable_creation_date: true
+
+
+  - bibtex:
+      bib_file: "docs/refs.bib"
+      bib_by_default: true
+
+
+
+extra_javascript:
+  - javascripts/mathjax.js
+  - javascripts/tex-macros.js
+  - https://polyfill.io/v3/polyfill.min.js?features=es6
+  - https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js
+  - javascripts/cross-referencing.js
+
+extra_css:
+  - stylesheets/extra.css
+
+extra:
+  generator: false
+
+

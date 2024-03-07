@@ -1,0 +1,8 @@
+mkdocs==1.4.2
+mkdocs-material==9.0.12
+pymdown-extensions==9.9.2
+mkdocs-glightbox==0.3.4
+mkdocs-bibtex==2.8.16
+mkdocs-enumerate-headings-plugin==0.6.0
+mkdocs-git-revision-date-localized-plugin==1.2.0
+

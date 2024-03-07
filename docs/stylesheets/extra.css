@@ -1,0 +1,53 @@
+:root {
+  --md-primary-fg-color:        #2694d1;
+  --md-primary-fg-color--light: #2694d1;
+  --md-primary-fg-color--dark:  #2694d1;
+}
+
+.md-typeset h1,
+.md-typeset h2 {
+  font-weight: bold;
+}
+
+.md-typeset pre.arithmatex {
+  overflow: initial;
+}
+
+figcaption.image-caption {
+  text-align: justify;
+  font-size: 14px;
+  max-width: 30rem;
+}
+
+div.listing figcaption {
+  text-align: left;
+  margin: 0;
+}
+
+.table-caption {
+  text-align: center;
+  font-size: 14px;
+  margin: 0.5em;
+}
+
+.listing {
+  text-align: left;
+  font-size: 14px;
+}
+
+figcaption span:first-child {
+    font-weight: bold;
+}
+
+caption span:first-child {
+    font-weight: bold;
+}
+
+.md-typeset table:not([class]) {
+  overflow-x: hidden;
+}
+
+.md-typeset__table {
+  margin-top: 1em;
+  margin-bottom: 1em;
+}
