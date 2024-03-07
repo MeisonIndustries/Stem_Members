@@ -48,6 +48,13 @@ nav:
         - 'Creality Falcon-2 40 W' : 'eng_1_manual/fabrication/falcon-2/index.md'
         - 'Fabrication Guidelines': 'eng_1_manual/fabrication/fabrication-guidelines/fabrication-guidelines.md'
 
+      - 'Guided Project 1' :
+        - 'Introduction' : 'eng_1_manual/guided-project-1/index.md'
+        - 'Creality Ender-3 Pro 3D Printer' : 'eng_1_manual/fabrication/ender-pro/index.md'
+        - 'ANYCUBIC Photon Mono 2' : 'eng_1_manual/fabrication/anycubic/index.md'
+        - 'Creality Falcon-2 40 W' : 'eng_1_manual/fabrication/falcon-2/index.md'
+        - 'Fabrication Guidelines': 'eng_1_manual/fabrication/fabrication-guidelines/fabrication-guidelines.md'
+
       - 'Self Assessments':
         - 'Introduction' : 'eng_1_manual/self-assessment/index.md'
         - 'Tools Quizz:' : 'eng_1_manual/self-assessment/tool-quizz/tool-quizz-1.md'
