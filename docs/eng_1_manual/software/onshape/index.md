@@ -31,9 +31,9 @@ Step 1: [Introduction to Parts](https://learn.onshape.com/learn/course/introduct
 Step 2: [Introduction to Assemblies Design](https://learn.onshape.com/courses/introduction-to-assembly-design){:target="_blank"}<br/>
 
 
-If you are feeling ambitious you can follow through with a complete curriculum also:<br/>
+If you are feeling ambitious you can follow through with a complete curriculum:<br/>
 
-[Intro to CAD](https://learn.onshape.com/learning-paths/intro-to-cad){:target="_blank"}<br/>
+Step 3: Onshape Curriculum: [Intro to CAD](https://learn.onshape.com/learning-paths/intro-to-cad){:target="_blank"}<br/>
 
 
 

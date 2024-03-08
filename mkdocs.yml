@@ -35,10 +35,12 @@ nav:
 
       - 'Software': 
         - 'Introduction' : 'eng_1_manual/software/index.md'
-        - 'Onshape CAD': 'eng_1_manual/software/onshape/index.md'
+        - 'Onshape CAD': 
+          - 'Saplings LAB': 'eng_1_manual/software/onshape/saplings-lab/index.md'
         - 'Cura Slicer': 
           - 'Home Installation': 'eng_1_manual/software/slicer/home-installation/index.md'
-          - 'Saplings LAB': 'eng_1_manual/software/slicer/saplings-lab/index.md'
+        - 'Anycubic Photon Workshop': 
+          - 'Home Installation': 'eng_1_manual/software/anycubic/home-installation/index.md'
         - 'Design Guidelines': 'eng_1_manual/software/design-guidelines/design-guidelines.md'
      
       - 'Fabrication' :
@@ -50,9 +52,9 @@ nav:
 
       - 'Guided Project 1' :
         - 'Introduction' : 'eng_1_manual/guided-project-1/index.md'
-        - 'Creality Ender-3 Pro 3D Printer' : 'eng_1_manual/fabrication/ender-pro/index.md'
-        - 'ANYCUBIC Photon Mono 2' : 'eng_1_manual/fabrication/anycubic/index.md'
-        - 'Creality Falcon-2 40 W' : 'eng_1_manual/fabrication/falcon-2/index.md'
+        - 'Onshape CAD' : 'eng_1_manual/guided-project-1/onshape-cad/index.md'
+        - 'Cura Slicer' : 'eng_1_manual/guided-project-1/cura-slicer/index.md'
+        - 'ANYCUBIC Photon Workshop' : 'eng_1_manual/guided-project-1/anycubic-photon-workshop/index.md'
         - 'Fabrication Guidelines': 'eng_1_manual/fabrication/fabrication-guidelines/fabrication-guidelines.md'
 
       - 'Self Assessments':

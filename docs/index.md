@@ -7,12 +7,12 @@ We ae happy to introduce our new MakerSpace to the seasons of Saplings and the P
 
 ![Machines.jpg](images/Machines.jpg){width=80%} <br/><br/>
 
-And the newly created Computer Lab!<br/>
+A newly created Computer Lab to help enrich our environment and continued growth with additional STEM development! <br/>
 
 ![Computer-Lab.jpg](images/Computer-Lab.jpg){width=80%} <br/><br/>
 
 ## Home
-The home section (this section) contains various materials related to the camps, nagivating the materials and other administrative information relating to the Saplings STEM objectives and deliverables:
+The home section (this section) contains various materials related to the camps, navigating the materials and other administrative information relating to the Saplings STEM objectives and deliverables:
 
 ## Engineering Program Overview<br/>
 

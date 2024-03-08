@@ -42,3 +42,9 @@ Onshape is a professional Computer Aided Design [CAD] Software. The Onshape CAD 
 <br/>
 There are a wide range of slicer software available these days and although some allow for greater control over the support structure and different scaffolding patterns. Cura Slicer is easy to use and is free, allowing students to download and engage with the software at home. 
 
+
+## Anycubic Photon Workshop
+
+![anycubic-workshop.png](images/anycubic-workshop.png) 
+
+There are a wide range of slicer software available these days and although some allow for greater control over the support structure and different scaffolding patterns. Anycubic Photon Workshop is easy to use and is free, allowing students to download and engage with the software at home. 
