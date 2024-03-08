@@ -1,6 +1,15 @@
 # Welcome
 
-Welcome to the Saplings STEM camps/course materials. Please find below a guide to the main sections of the website.
+Welcome to the Saplings STEM camps/course materials. Please find below a guide to the main sections of the website.<br/>
+
+We ae happy to introduce our new MakerSpace to the seasons of Saplings and the Pemberton Heights community!<br/>
+
+
+![Machines.jpg](images/Machines.jpg){width=80%} <br/><br/>
+
+And the newly created Computer Lab!<br/>
+
+![Computer-Lab.jpg](images/Computer-Lab.jpg){width=80%} <br/><br/>
 
 ## Home
 The home section (this section) contains various materials related to the camps, nagivating the materials and other administrative information relating to the Saplings STEM objectives and deliverables:

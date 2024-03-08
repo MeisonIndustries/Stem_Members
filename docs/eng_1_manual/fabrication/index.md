@@ -2,6 +2,11 @@
 
 # Fabrication
 
+## Welcome to Saplings MakerSpace!
+
+![Machines.jpg](images/Machines.jpg){width=80%} <br/><br/>
+
+![Computer-Lab.jpg](images/Computer-Lab.jpg){width=80%} <br/><br/>
 
 ## Machines
 ### Creality Ender-3 Pro XL 3D Printer <br/>
